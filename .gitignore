@@ -8,6 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+skill_state
+__pycache__/
+*.pyc
 dist
 dist-ssr
 *.local
