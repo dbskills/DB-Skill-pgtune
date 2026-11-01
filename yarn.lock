@@ -6179,9 +6179,9 @@ __metadata:
     postcss: "npm:^8.5.32"
     postcss-import: "npm:^17.0.1"
     postcss-preset-env: "npm:^11.6.1"
-    preact: "npm:^11.0.2"
+    preact: "npm:^11.1.0"
     preact-iso: "npm:^2.12.2"
-    preact-render-to-string: "npm:^6.8.1"
+    preact-render-to-string: "npm:^6.8.2"
     reselect: "npm:^5.1.1"
     terser: "npm:^5.51.2"
     valibot: "npm:^1.5.0"
@@ -6715,24 +6715,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"preact-render-to-string@npm:^6.8.1":
-  version: 6.8.1
-  resolution: "preact-render-to-string@npm:6.8.1"
+"preact-render-to-string@npm:^6.8.2":
+  version: 6.8.2
+  resolution: "preact-render-to-string@npm:6.8.2"
   peerDependencies:
     preact: ">=10 || >= 11.0.0-0"
-  checksum: 10/ff773e60bb23bd873fe38ea422f11ea79d827174105789ccb088577e91fbb31d3b4fec220b739afd3aa4f1082f0185a5a491dc6c4c1d72875225bc7bd8f863ab
+  checksum: 10/3cd1fae8f055ae623647d644a0d973579507ba658ea90ee50973d34be629041a235ae356f2d5cf8d41de6c5a0ec094b88e4b4e1e366ca67c1fa5c2df6edc86a8
   languageName: node
   linkType: hard
 
-"preact@npm:^11.0.2":
-  version: 11.0.2
-  resolution: "preact@npm:11.0.2"
+"preact@npm:^11.1.0":
+  version: 11.1.0
+  resolution: "preact@npm:11.1.0"
   peerDependencies:
     preact-render-to-string: ">=6.7.0"
   peerDependenciesMeta:
     preact-render-to-string:
       optional: true
-  checksum: 10/d6c97fd471c0207c27051aad1ffa643f5e0d3111e3c10ef8ec8b2ab0c31e5174d5f790c36c2c880ad535cef368373763881009e1d99646866a194c830d4b488c
+  checksum: 10/de25fa4183313397bd8bc73b3feae52484b41c5587fa52303d1a563968ed8064db60e7f3a87300987b429cbe5bf39cfaaebed8886846fe2a689cc0b6de42b115
   languageName: node
   linkType: hard
 
